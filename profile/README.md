@@ -1,5 +1,5 @@
 # 1008 Studio
-We govnoedicsi
+We are govnoedicsi
 
 ## Team
 - [Konstantin Massalsky](https://github.com/k0stt)
